@@ -2,7 +2,7 @@ Click on the 'Click To Publish' button:
 
 ![alt=""](images/click-publish-button.png)
 
-You can update the 'Site name' to customise your link then click on 'Publish'.
+You can update the site name to customise your link then click on 'Publish'.
 
 ![The 'Publish your Trinket' popup window with site name and site URL.](images/publish-your-trinket.png)
 
